@@ -1,0 +1,38 @@
+[
+  {
+    "distance": "10",
+    "flight_time": "10",
+    "airport_a": "Aeropuerto Internacional de Tocumen",
+    "airport_b": "Aeropuerto Internacional Alfonso Bonilla Arag\u00f3n"
+  },
+  {
+    "distance": "22",
+    "flight_time": "22",
+    "airport_a": "Aeropuerto La Nubia",
+    "airport_b": "Aeropuerto Internacional Mateca\u00f1a"
+  },
+  {
+    "distance": "11",
+    "flight_time": "11",
+    "airport_a": "Aeropuerto La Nubia",
+    "airport_b": "Aeropuerto Internacional de Tocumen"
+  },
+  {
+    "distance": "14",
+    "flight_time": "14",
+    "airport_a": "Aeropuerto La Nubia",
+    "airport_b": "Aeropuerto Internacional Alfonso Bonilla Arag\u00f3n"
+  },
+  {
+    "distance": "12",
+    "flight_time": "12",
+    "airport_a": "Aeropuerto Internacional Alfonso Bonilla Arag\u00f3n",
+    "airport_b": "Aeropuerto Internacional Mateca\u00f1a"
+  },
+  {
+    "distance": "8",
+    "flight_time": "8",
+    "airport_a": "Aeropuerto La Nubia",
+    "airport_b": "Aeropuerto Internacional de Medell\u00edn"
+  }
+]

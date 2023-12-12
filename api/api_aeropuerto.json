@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Aeropuerto Internacional de Tocumen",
+    "location": "Panam\u00e1",
+    "code": "PTY"
+  },
+  {
+    "name": "Aeropuerto Internacional Alfonso Bonilla Arag\u00f3n",
+    "location": "Cali",
+    "code": "ABA"
+  },
+  {
+    "name": "Aeropuerto La Nubia",
+    "location": "Manizales",
+    "code": "MZL"
+  },
+  {
+    "name": "Aeropuerto Internacional Mateca\u00f1a",
+    "location": "Pereira",
+    "code": "AIM"
+  },
+  {
+    "name": "Aeropuerto Internacional El Dorado",
+    "location": "Bogot\u00e1",
+    "code": "AID"
+  },
+  {
+    "name": "Aeropuerto Internacional de Medell\u00edn",
+    "location": "Medell\u00edn",
+    "code": "MDE"
+  }
+]
